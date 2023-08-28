@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About Me
+title: About Javier
 headshot: /assets/img/headshot.webp
 permalink: /about
 ---
